@@ -81,7 +81,7 @@
                         ]
                     },
                     {
-                        "description": "change control-b to ←",
+                        "description": "like emacs except developing",
                         "manipulators": [
                             {
                                 "from": {
@@ -98,12 +98,7 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "change control-n to ↓",
-                        "manipulators": [
+                            },
                             {
                                 "from": {
                                     "key_code": "n",
@@ -119,12 +114,7 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "change control-p to ↑",
-                        "manipulators": [
+                            },
                             {
                                 "from": {
                                     "key_code": "p",
@@ -140,12 +130,7 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "change control-f to →",
-                        "manipulators": [
+                            },
                             {
                                 "from": {
                                     "key_code": "f",
@@ -161,12 +146,7 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "change control-h to BS",
-                        "manipulators": [
+                            },
                             {
                                 "from": {
                                     "key_code": "h",
@@ -182,12 +162,7 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "change control-[ to ESC",
-                        "manipulators": [
+                            },
                             {
                                 "from": {
                                     "key_code": "open_bracket",
@@ -203,12 +178,7 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "change control-g to ESC",
-                        "manipulators": [
+                            },
                             {
                                 "from": {
                                     "key_code": "g",

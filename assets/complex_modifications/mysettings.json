@@ -2,7 +2,7 @@
   "title": "MySettings",
   "rules": [
     {
-      "description": "change control-b to ←",
+      "description": "like emacs except developing",
       "manipulators": [
         {
           "type": "basic",
@@ -13,12 +13,7 @@
           "to": [
             { "key_code": "left_arrow" }
           ]
-        }
-      ]
-    },
-    {
-      "description": "change control-n to ↓",
-      "manipulators": [
+        },
         {
           "type": "basic",
           "from": {
@@ -28,12 +23,7 @@
           "to": [
             { "key_code": "down_arrow" }
           ]
-        }
-      ]
-    },
-    {
-      "description": "change control-p to ↑",
-      "manipulators": [
+        },
         {
           "type": "basic",
           "from": {
@@ -43,12 +33,7 @@
           "to": [
             { "key_code": "up_arrow" }
           ]
-        }
-      ]
-    },
-    {
-      "description": "change control-f to →",
-      "manipulators": [
+        },
         {
           "type": "basic",
           "from": {
@@ -58,12 +43,7 @@
           "to": [
             { "key_code": "right_arrow" }
           ]
-        }
-      ]
-    },
-    {
-      "description": "change control-h to BS",
-      "manipulators": [
+        },
         {
           "type": "basic",
           "from": {
@@ -73,12 +53,7 @@
           "to": [
             { "key_code": "delete_or_backspace" }
           ]
-        }
-      ]
-    },
-    {
-      "description": "change control-[ to ESC",
-      "manipulators": [
+        },
         {
           "type": "basic",
           "from": {
@@ -88,12 +63,7 @@
           "to": [
             { "key_code": "escape" }
           ]
-        }
-      ]
-    },
-    {
-      "description": "change control-g to ESC",
-      "manipulators": [
+        },
         {
           "type": "basic",
           "from": {
